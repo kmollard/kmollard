@@ -13,9 +13,12 @@ I'm a Computing Science student at Simon Fraser University with a Statistics min
 | Project | What it shows |
 |---|---|
 | [**S&P 500 Anomaly Detection**](https://github.com/kmollard/CMPT459-Project) | GARCH, ARIMA, and Isolation Forest on market data. Caught a dataset release missing about 69% of index weight and rolled back to a complete version. Classifiers evaluated honestly against a baseline. |
+| [**Learning to Trade (PPO + FinBERT)**](https://github.com/kmollard/CMPT419-FinalProject) | Reinforcement-learning trading agent on AAPL with technical and news-sentiment features, tested out-of-sample against buy-and-hold. Diagnosed why the sentiment signal couldn't help: no news coverage in the training window. |
+| [**Kiln Classification (Satellite Imagery)**](https://github.com/kmollard/STAT440-P2) | Team of 7. Fine-tuned EfficientNet-B3 with test-time augmentation (validation AUC 0.988). My focus: training stability, and trusting validation AUC over a noisy leaderboard. |
 | [**Fuel, Gas Prices & EV Sales**](https://github.com/kmollard/353-Project) | Team of 3. Regression and correlation analysis of fossil fuel consumption, gas prices, and EV adoption across the top oil-consuming countries. |
+| [**Battleship with AI Opponents**](https://github.com/kmollard/276-Project) | Team of 5. React game with four AI difficulty levels, including a probability heat-map strategy. |
 
-*More on the way: a reinforcement-learning trading agent (PPO + FinBERT sentiment), a vision-language receipt parser (LoRA fine-tuning of Phi-3.5-Vision), and a personal fitness data pipeline.*
+*In progress: League of Legends match prediction (Elo ratings + XGBoost) and a personal fitness data pipeline.*
 
 ---
 
