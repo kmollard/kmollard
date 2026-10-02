@@ -2,9 +2,9 @@
 
 I'm a Computing Science student at Simon Fraser University with a Statistics minor and concentrations in Information Systems and AI. Most of my work is in **data, ML, and analytics**, especially applied statistics and time series on financial data.
 
-- 🔎 **Looking for:** a Winter/Spring 2027 co-op (4 or 8 months) in data engineering, data/ML, analytics, or software development
-- 💼 **Experience:** Software Engineering co-op at Terraforma Systems (legacy PHP, React/TypeScript client work). Before that, about 7 years as a particle accelerator operator at TRIUMF in a safety-critical environment.
-- 🎓 **Expected graduation:** December 2027
+- **Looking for:** a Winter/Spring 2027 co-op (4 or 8 months) in data engineering, data/ML, analytics, or software development
+- **Experience:** Software Engineering co-op at Terraforma Systems (legacy PHP, React/TypeScript client work). Before that, about 7 years as a particle accelerator operator at TRIUMF in a safety-critical environment.
+- **Expected graduation:** December 2027
 
 ---
 
@@ -31,4 +31,4 @@ I'm a Computing Science student at Simon Fraser University with a Statistics min
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/kyle-mollard/) · [mollardk@gmail.com](mailto:mollardk@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kyle-mollard/) · [mollardk@gmail.com](mailto:mollardk@gmail.com)
